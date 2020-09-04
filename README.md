@@ -12,6 +12,7 @@
 - 📫 How to reach me: 
     - **[email](daniellic9@gmail.com)**
     - **[telegram](https://t.me/daniellic9)** 
+    - **[linkedin](https://www.linkedin.com/in/daniellicosta/)**
     - **send me letters at slowly: 7ZXD7W**
 - 😄 Pronouns: She/her
 <!-- - ⚡ Fun fact: 
