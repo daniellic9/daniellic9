@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on OntoHI (ontology of HIV)
 - 🌱 I’m currently learning Parallel Processing and Distributed Systems
-- 👯 I’m looking to collaborate on web or python projects
+- 👯 I’m looking to collaborate with web or python projects
 - 🤔 I’m looking for help with Chinese and Korean Languages..
 - 💬 Ask me about anything
 - 📫 How to reach me: 
