@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on OntoHI (ontology of HIV)
-- 🌱 I’m currently learning Parallel Processing and Distributed Systems
+- 🌱 I’m currently learning Function Points
 - 👯 I’m looking to collaborate with web or python projects
 - 🤔 I’m looking for help with Chinese and Korean Languages..
 - 💬 Ask me about anything
@@ -15,5 +15,4 @@
     - **[linkedin](https://www.linkedin.com/in/daniellicosta/)**
     - **send me letters at slowly: 7ZXD7W**
 - 😄 Pronouns: She/her
-<!-- - ⚡ Fun fact: 
--->
+- ⚡ Fun fact: Life is not funny
